@@ -6,7 +6,9 @@
 ## Geting Started
 
 First of all install go, and docker (if on mac start docker)
+Downloaf mode
 
+    nmp install create-dmg
     git clone https://github.com/valerijhegaj/fyne-cross-guide.git
     cd fyne-cross-guide
     go mod tidy
