@@ -18,6 +18,11 @@ Download npm (on mac brew install node)
 
 In first start docker download need images
 
+### If you want to install
+
+    go get fyne.io/fyne/v2/cmd/fyne
+    go install fyne.io/fyne/v2/cmd/fyne
+
 ## Usage
 
     make <command>
@@ -41,7 +46,7 @@ In first start docker download need images
 		remove-archives          remove dir download
 		clean                    clean all
 
-On linux write
+### On linux write
 
     sudo env PATH=$PATH make <command>
 
