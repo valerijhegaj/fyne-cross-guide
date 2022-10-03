@@ -1,11 +1,11 @@
 # Fyne Cross Guide
 
-[Fyne](https://github.com/fyne-io/fyne) is an easy-to-use UI toolkit and app API written in Go. \\
+[Fyne](https://github.com/fyne-io/fyne) is an easy-to-use UI toolkit and app API written in Go. \
 [Fyne-cross](https://github.com/fyne-io/fyne-cross) is a simple tool to cross compile and create distribution packages for Fyne applications using docker images that include Linux, the MinGW compiler for Windows, FreeBSD, and a macOS SDK, along with the Fyne requirements.
 
 ## Geting Started
 
-First of all install go, and docker (if on mac start docker) \\
+First of all install go, and docker (if on mac start docker) \
 Download node
 
     npm install -g create-dmg
