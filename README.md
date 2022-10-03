@@ -8,7 +8,7 @@
 First of all install go, and docker (if on mac start docker) \
 Download npm (on mac brew install node)
 
-    npm install -g create-dmg
+    npm install -g create- #for mac os
     git clone https://github.com/valerijhegaj/fyne-cross-guide.git
     cd fyne-cross-guide
     go mod tidy
