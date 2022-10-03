@@ -8,13 +8,11 @@
 First of all install go, and docker (if on mac start docker) \
 Download npm (on mac brew install node)
 
-    npm install -g create- #for mac os
     git clone https://github.com/valerijhegaj/fyne-cross-guide.git
     cd fyne-cross-guide
     go mod tidy
     go get github.com/fyne-io/fyne-cross
     go install github.com/fyne-io/fyne-cross
-    PATH=$PATH:~/go/bin
 
 In first start docker download need images
 
@@ -41,9 +39,9 @@ In first start docker download need images
 		remove-archives          remove dir download
 		clean                    clean all
 
-On linux write
+### If permission denied
 
-    sudo env PATH=$PATH make <command>
+    sudo make <command>
 
 ## Launch
 
