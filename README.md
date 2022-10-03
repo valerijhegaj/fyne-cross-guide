@@ -40,3 +40,9 @@ In first start docker download need images
 		remove-binares           remove dir fyne-cross
 		remove-archives          remove dir download
 		clean                    clean all
+
+## Launch
+
+On macOS
+
+    sudo xattr -rd com.apple.quarantine /Applications/hello_world.app
