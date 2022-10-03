@@ -5,8 +5,8 @@
 
 ## Geting Started
 
-First of all install go, and docker (if on mac start docker)
-Downloaf mode
+First of all install go, and docker (if on mac start docker) \\
+Download node
 
     nmp install create-dmg
     git clone https://github.com/valerijhegaj/fyne-cross-guide.git
